@@ -1,5 +1,5 @@
 # About Me:
-Aspiring and passionate ML-engineer from Saratov. Currently studying at 2nd degree<br>of SSU CSIT.
+Aspiring and passionate ML-engineer from Saratov. Currently studying at 2nd degree of SSU CSIT.
 
 
 # Tech Stack:
