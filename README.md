@@ -8,7 +8,7 @@ I work on machine learning projects involving text, speech, and images. My exper
 
 I'm interested in the full process of building ML applications: preparing data, experimenting with models, evaluating results, and making the solution usable through an application. Alongside my projects, I teach machine learning at a student community and develop tools in Rust.
 
-**Open to ML Engineering and Data Science internships / junior opportunities, including remote roles.** Based in Saratov, Russia.
+**Open to ML Engineering and Data Science internships / junior opportunities, including remote roles.** Based in Saratov, Russia. ![Check my resume (RU/EN)](https://github.com/haritonn/resume).
 
 ## Selected projects
 
