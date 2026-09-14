@@ -10,6 +10,29 @@ I'm interested in the full process of building ML applications: preparing data, 
 
 **Open to ML Engineering and Data Science internships / junior opportunities, including remote roles.** Based in Saratov, Russia. ![Check my resume (RU/EN)](https://github.com/haritonn/resume).
 
+## Preferred languages
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+## Current stack
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF3E74?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
+[![ClearML](https://img.shields.io/badge/ClearML-2393D1?style=for-the-badge&logo=clearml&logoColor=white)](https://clear.ml/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FE6F24?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://latex-project.org/)
+[![Typst](https://img.shields.io/badge/Typst-0D7933?style=for-the-badge&logo=typst&logoColor=white)](https://typst.app/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+My academic background includes linear algebra, calculus, probability, and statistics, alongside classical machine learning and deep learning.
+
+
 ## Selected projects
 
 ### [Speech recognition for dialogues and catalog terms](https://github.com/haritonn/asr_practice)
@@ -72,28 +95,6 @@ Investigated how embedding models and feature-space transformations affect news-
 ### [Generative computer vision for virtual try-on](https://github.com/haritonn/coursework2)
 
 Compared diffusion models, GANs, and large multimodal model approaches for virtual clothing try-on. Evaluated visual quality and inference time on a custom dataset.
-
-## Preferred languages
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-## Current stack
-
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF3E74?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
-[![ClearML](https://img.shields.io/badge/ClearML-2393D1?style=for-the-badge&logo=clearml&logoColor=white)](https://clear.ml/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FE6F24?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://latex-project.org/)
-[![Typst](https://img.shields.io/badge/Typst-0D7933?style=for-the-badge&logo=typst&logoColor=white)](https://typst.app/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-
-My academic background includes linear algebra, calculus, probability, and statistics, alongside classical machine learning and deep learning.
 
 ## Teaching & community
 
