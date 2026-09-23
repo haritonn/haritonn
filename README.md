@@ -45,14 +45,13 @@ A university internship project for transcribing Russian-language conversations,
 
 **Built with:** Python, Faster-Whisper, Silero VAD, pyannote, NVIDIA NeMo.
 
-### [Local RAG assistant for PDF documents](https://github.com/haritonn/pdf_rag)
+### [QASPER-based RAG pipeline for scientific papers](https://github.com/haritonn/pdf_rag)
 
-A locally running assistant that answers questions about uploaded PDF documents and displays the retrieved evidence alongside its answers.
+A local RAG pipeline that retrieves evidence from QASPER research papers and uses it to generate answers wit hOllama.
 
-- Built a document retrieval and answer generation pipeline.
-- Added interface controls for the LLM, embedding model, vector database, and number of retrieved sources.
-- Exposed source documents and retrieved passages in Streamlit so users can inspect the evidence behind an answer.
-
+  - Built paragraph-level indexing and hybrid dense and sparse retrieval with Qdrant and Reciprocal Rank Fusion.
+  - Added cross-encoder reranking and CLI access to source metadata.
+  - Evaluated retrieval on 888 of 1,005 validation questions: MRR@10 0.5221, NDCG@10 0.5351, Recall@10 0.7493.
 **Built with:** Python, LLMs, text embeddings, Qdrant, Streamlit.
 
 ### [Biomedical publication search](https://github.com/haritonn/fitness_se)
