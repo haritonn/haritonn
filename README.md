@@ -1,6 +1,6 @@
 # Hi, I'm Hariton!
 
-**Aspiring ML Engineer | NLP, RAG & Information Retrieval | Python / PyTorch**
+**Aspiring ML Engineer / Data Scientist**
 
 I'm a fourth-year student at Saratov State University, pursuing a bachelor's degree in Fundamental Computer Science and Information Technology.
 
@@ -52,6 +52,7 @@ A local RAG pipeline that retrieves evidence from QASPER research papers and use
   - Built paragraph-level indexing and hybrid dense and sparse retrieval with Qdrant and Reciprocal Rank Fusion.
   - Added cross-encoder reranking and CLI access to source metadata.
   - Evaluated retrieval on 888 of 1,005 validation questions: MRR@10 0.5221, NDCG@10 0.5351, Recall@10 0.7493.
+  - 
 **Built with:** Python, LLMs, text embeddings, Qdrant, Streamlit.
 
 ### [Biomedical publication search](https://github.com/haritonn/fitness_se)
