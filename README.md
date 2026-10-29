@@ -35,6 +35,16 @@ My academic background includes linear algebra, calculus, probability, and stati
 
 ## Selected projects
 
+### [MAS Crawler — LLM-guided crawling and search](https://github.com/haritonn/mas_crawler)
+
+An MVP that turns a website URL and a collection goal into a document corpus and a searchable index.
+
+- Built an Explorer agent that inspects pages and proposes crawl rules and CSS selectors; Rust handles document collection and indexing without LLM calls during bulk crawling.
+- Connected Python orchestration in LangGraph to the Rust engine through PyO3, with BM25 retrieval powered by Tantivy.
+- Added a workflow for human relevance annotation and comparison of search configurations using nDCG, Precision, Recall, and judgment coverage.
+
+**Built with:** Rust, Python, LangSmith, LangGraph, PyO3, Tantivy, Spider.
+
 ### [Speech recognition for dialogues and catalog terms](https://github.com/haritonn/asr_practice)
 
 A university internship project for transcribing Russian-language conversations, identifying speakers, and recognizing domain-specific catalog terms.
@@ -87,6 +97,12 @@ A Rust terminal dashboard for monitoring NVIDIA GPUs and host-system resources i
 **Built with:** Rust, NVML, Ratatui, Crossterm, Sysinfo.
 
 ## Research & coursework
+
+### Bachelor's thesis (in progress): GraphRAG for question-answering systems based on documents and a knowledge graph
+
+Research into using GraphRAG to connect evidence across scientific documents and support the formulation of research hypotheses.
+
+The motivation is the growing volume of publications and the uneven reliability of reported results, which make it harder to identify substantive advances. The work focuses on supporting timely synthesis of the latest state-of-the-art approaches from major conferences into coherent sets of research hypotheses grounded in source documents and their relationships.
 
 ### [Text-embedding geometry and HDBSCAN clustering](https://github.com/haritonn/coursework3)
 
